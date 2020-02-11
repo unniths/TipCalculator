@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tip Calculator App</string>
+    <string name="totalTV">Total</string>
+    <string name="billamountEditText">Enter Amount</string>
+    <string name="tipTV">Tip</string>
+    <string name="calculatebutton">Calculate</string>
+</resources>
